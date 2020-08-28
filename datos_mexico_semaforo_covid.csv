@@ -1,0 +1,33 @@
+cve_estado,cve_est_0,nombre,nombre_s_a,nombre_dif,nombre_may,nom_may_di,semaforo_covid,semaforo_info,inicio_semaforo,fin_semaforo
+"1","01",Aguascalientes,Aguascalientes,Aguascalientes,AGUASCALIENTES,AGUASCALIENTES,Máximo,Solo actividades esenciales,17-08-2020,30-08-2020
+"2","02",Baja California,Baja California,Baja California,BAJA CALIFORNIA,BAJA CALIFORNIA,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"3","03",Baja California Sur,Baja California Sur,Baja California Sur,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Máximo,Solo actividades esenciales,17-08-2020,30-08-2020
+"4","04",Campeche,Campeche,Campeche,CAMPECHE,CAMPECHE,Medio,Total apertura económica con límites de espacio,17-08-2020,30-08-2020
+"5","05",Coahuila,Coahuila,Coahuila de Zaragoza,COAHUILA DE ZARAGOZA,COAHUILA,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"6","06",Colima,Colima,Colima,COLIMA,COLIMA,Máximo,Solo actividades esenciales,17-08-2020,30-08-2020
+"7","07",Chiapas,Chiapas,Chiapas,CHIAPAS,CHIAPAS,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"8","08",Chihuahua,Chihuahua,Chihuahua,CHIHUAHUA,CHIHUAHUA,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"9","09",Ciudad de México,Ciudad de Mexico,Distrito Federal,CIUDAD DE MEXICO,DISTRITO FEDERAL,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"10","10",Durango,Durango,Durango,DURANGO,DURANGO,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"11","11",Guanajuato,Guanajuato,Guanajuato,GUANAJUATO,GUANAJUATO,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"12","12",Guerrero,Guerrero,Guerrero,GUERRERO,GUERRERO,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"13","13",Hidalgo,Hidalgo,Hidalgo,HIDALGO,HIDALGO,Máximo,Solo actividades esenciales,17-08-2020,30-08-2020
+"14","14",Jalisco,Jalisco,Jalisco,JALISCO,JALISCO,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"15","15",México,Mexico,Estado de México,MEXICO,MEXICO,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"16","16",Michoacán,Michoacan,"Michoacán de Ocampo	",MICHOACAN DE OCAMPO,MICHOACAN,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"17","17",Morelos,Morelos,Morelos,MORELOS,MORELOS,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"18","18",Nayarit,Nayarit,Nayarit,NAYARIT,NAYARIT,Máximo,Solo actividades esenciales,17-08-2020,30-08-2020
+"19","19",Nuevo León,Nuevo Leon,Nuevo León,NUEVO LEON,NUEVO LEON,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"20","20",Oaxaca,Oaxaca,Oaxaca,OAXACA,OAXACA,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"21","21",Puebla,Puebla,Puebla,PUEBLA,PUEBLA,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"22","22",Querétaro,Queretaro,Querétaro,QUERETARO,QUERETARO,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"23","23",Quintana Roo,Quintana Roo,Quintana Roo,QUINTANA ROO,QUINTANA ROO,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"24","24",San Luis Potosí,San Luis Potosi,San Luis Potosí,SAN LUIS POTOSI,SAN LUIS POTOSI,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"25","25",Sinaloa,Sinaloa,Sinaloa,SINALOA,SINALOA,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"26","26",Sonora,Sonora,Sonora,SONORA,SONORA,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"27","27",Tabasco,Tabasco,Tabasco,TABASCO,TABASCO,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"28","28",Tamaulipas,Tamaulipas,Tamaulipas,TAMAULIPAS,TAMAULIPAS,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"29","29",Tlaxcala,Tlaxcala,Tlaxcala,TLAXCALA,TLAXCALA,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"30","30",Veracruz,Veracruz,"Veracruz de Ignacio de la Llave	",VERACRUZ DE IGNACIO,VERACRUZ,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"31","31",Yucatán,Yucatan,Yucatán,YUCATAN,YUCATAN,Alto,Algunas actividades no esenciales,17-08-2020,30-08-2020
+"32","32",Zacatecas,Zacatecas,Zacatecas,ZACATECAS,ZACATECAS,Máximo,Solo actividades esenciales,17-08-2020,30-08-2020
