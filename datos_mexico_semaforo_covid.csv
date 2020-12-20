@@ -7,13 +7,13 @@ cve_estado,cve_est_0,nombre,nombre_s_a,nombre_dif,nombre_may,nom_may_di,semaforo
 "6","06",Colima,Colima,Colima,COLIMA,COLIMA,Medio,Total apertura económica con límites de espacio,07-12-2020,20-12-2020
 "7","07",Chiapas,Chiapas,Chiapas,CHIAPAS,CHIAPAS,Bajo,Todas las actividades,07-12-2020,20-12-2020
 "8","08",Chihuahua,Chihuahua,Chihuahua,CHIHUAHUA,CHIHUAHUA,Alto,Algunas actividades no esenciales,07-12-2020,20-12-2020
-"9","09",Ciudad de México,Ciudad de Mexico,Distrito Federal,CIUDAD DE MEXICO,DISTRITO FEDERAL,Alto,Algunas actividades no esenciales,07-12-2020,20-12-2020
+"9","09",Ciudad de México,Ciudad de Mexico,Distrito Federal,CIUDAD DE MEXICO,DISTRITO FEDERAL,Máximo,Sólo actividades económicas esenciales,07-12-2020,20-12-2020
 "10","10",Durango,Durango,Durango,DURANGO,DURANGO,Alto,Algunas actividades no esenciales,07-12-2020,20-12-2020
 "11","11",Guanajuato,Guanajuato,Guanajuato,GUANAJUATO,GUANAJUATO,Alto,Algunas actividades no esenciales,07-12-2020,20-12-2020
 "12","12",Guerrero,Guerrero,Guerrero,GUERRERO,GUERRERO,Alto,Algunas actividades no esenciales,07-12-2020,20-12-2020
 "13","13",Hidalgo,Hidalgo,Hidalgo,HIDALGO,HIDALGO,Alto,Algunas actividades no esenciales,07-12-2020,20-12-2020
 "14","14",Jalisco,Jalisco,Jalisco,JALISCO,JALISCO,Alto,Algunas actividades no esenciales,07-12-2020,20-12-2020
-"15","15",México,Mexico,Estado de México,MEXICO,MEXICO,Alto,Algunas actividades no esenciales,07-12-2020,20-12-2020
+"15","15",México,Mexico,Estado de México,MEXICO,MEXICO,Máximo,Sólo actividades económicas esenciales,07-12-2020,20-12-2020
 "16","16",Michoacán,Michoacan,"Michoacán de Ocampo	",MICHOACAN DE OCAMPO,MICHOACAN,Alto,Algunas actividades no esenciales,07-12-2020,20-12-2020
 "17","17",Morelos,Morelos,Morelos,MORELOS,MORELOS,Alto,Algunas actividades no esenciales,07-12-2020,20-12-2020
 "18","18",Nayarit,Nayarit,Nayarit,NAYARIT,NAYARIT,Alto,Algunas actividades no esenciales,07-12-2020,20-12-2020
