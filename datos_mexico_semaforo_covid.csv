@@ -1,33 +1,34 @@
 cve_estado,cve_est_0,nombre,nombre_s_a,nombre_dif,nombre_may,nom_may_di,semaforo_covid,semaforo_info,inicio_semaforo,fin_semaforo
-"1","01",Aguascalientes,Aguascalientes,Aguascalientes,AGUASCALIENTES,AGUASCALIENTES,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"2","02",Baja California,Baja California,Baja California,BAJA CALIFORNIA,BAJA CALIFORNIA,Máximo,Sólo actividades económicas esenciales,04-01-2021,17-01-2021
-"3","03",Baja California Sur,Baja California Sur,Baja California Sur,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"4","04",Campeche,Campeche,Campeche,CAMPECHE,CAMPECHE,Bajo,Todas las actividades,04-01-2021,17-01-2021
-"5","05",Coahuila,Coahuila,Coahuila de Zaragoza,COAHUILA DE ZARAGOZA,COAHUILA,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"6","06",Colima,Colima,Colima,COLIMA,COLIMA,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"7","07",Chiapas,Chiapas,Chiapas,CHIAPAS,CHIAPAS,Bajo,Todas las actividades,04-01-2021,17-01-2021
-"8","08",Chihuahua,Chihuahua,Chihuahua,CHIHUAHUA,CHIHUAHUA,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"9","09",Ciudad de México,Ciudad de Mexico,Distrito Federal,CIUDAD DE MEXICO,DISTRITO FEDERAL,Máximo,Sólo actividades económicas esenciales,04-01-2021,17-01-2021
-"10","10",Durango,Durango,Durango,DURANGO,DURANGO,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"11","11",Guanajuato,Guanajuato,Guanajuato,GUANAJUATO,GUANAJUATO,Máximo,Sólo actividades económicas esenciales,04-01-2021,17-01-2021
-"12","12",Guerrero,Guerrero,Guerrero,GUERRERO,GUERRERO,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"13","13",Hidalgo,Hidalgo,Hidalgo,HIDALGO,HIDALGO,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"14","14",Jalisco,Jalisco,Jalisco,JALISCO,JALISCO,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"15","15",México,Mexico,Estado de México,MEXICO,MEXICO,Máximo,Sólo actividades económicas esenciales,04-01-2021,17-01-2021
-"16","16",Michoacán,Michoacan,"Michoacán de Ocampo	",MICHOACAN DE OCAMPO,MICHOACAN,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"17","17",Morelos,Morelos,Morelos,MORELOS,MORELOS,Máximo,Sólo actividades económicas esenciales,04-01-2021,17-01-2021
-"18","18",Nayarit,Nayarit,Nayarit,NAYARIT,NAYARIT,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"19","19",Nuevo León,Nuevo Leon,Nuevo León,NUEVO LEON,NUEVO LEON,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"20","20",Oaxaca,Oaxaca,Oaxaca,OAXACA,OAXACA,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"21","21",Puebla,Puebla,Puebla,PUEBLA,PUEBLA,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"22","22",Querétaro,Queretaro,Querétaro,QUERETARO,QUERETARO,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"23","23",Quintana Roo,Quintana Roo,Quintana Roo,QUINTANA ROO,QUINTANA ROO,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"24","24",San Luis Potosí,San Luis Potosi,San Luis Potosí,SAN LUIS POTOSI,SAN LUIS POTOSI,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"25","25",Sinaloa,Sinaloa,Sinaloa,SINALOA,SINALOA,Medio,Total apertura económica con límites de espacio,04-01-2021,17-01-2021
-"26","26",Sonora,Sonora,Sonora,SONORA,SONORA,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"27","27",Tabasco,Tabasco,Tabasco,TABASCO,TABASCO,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"28","28",Tamaulipas,Tamaulipas,Tamaulipas,TAMAULIPAS,TAMAULIPAS,Medio,Total apertura económica con límites de espacio,04-01-2021,17-01-2021
-"29","29",Tlaxcala,Tlaxcala,Tlaxcala,TLAXCALA,TLAXCALA,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"30","30",Veracruz,Veracruz,"Veracruz de Ignacio de la Llave	",VERACRUZ DE IGNACIO,VERACRUZ,Medio,Total apertura económica con límites de espacio,04-01-2021,17-01-2021
-"31","31",Yucatán,Yucatan,Yucatán,YUCATAN,YUCATAN,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
-"32","32",Zacatecas,Zacatecas,Zacatecas,ZACATECAS,ZACATECAS,Alto,Algunas actividades no esenciales,04-01-2021,17-01-2021
+"1","01",Aguascalientes,Aguascalientes,Aguascalientes,AGUASCALIENTES,AGUASCALIENTES,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"2","02",Baja California,Baja California,Baja California,BAJA CALIFORNIA,BAJA CALIFORNIA,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"3","03",Baja California Sur,Baja California Sur,Baja California Sur,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"4","04",Campeche,Campeche,Campeche,CAMPECHE,CAMPECHE,Bajo,Todas las actividades,15-03-2021,28-03-2021
+"5","05",Coahuila,Coahuila,Coahuila de Zaragoza,COAHUILA DE ZARAGOZA,COAHUILA,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"6","06",Colima,Colima,Colima,COLIMA,COLIMA,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"7","07",Chiapas,Chiapas,Chiapas,CHIAPAS,CHIAPAS,Bajo,Todas las actividades,15-03-2021,28-03-2021
+"8","08",Chihuahua,Chihuahua,Chihuahua,CHIHUAHUA,CHIHUAHUA,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"9","09",Ciudad de México,Ciudad de Mexico,Distrito Federal,CIUDAD DE MEXICO,DISTRITO FEDERAL,Alto,Algunas actividades no esenciales,15-03-2021,28-03-2021
+"10","10",Durango,Durango,Durango,DURANGO,DURANGO,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"11","11",Guanajuato,Guanajuato,Guanajuato,GUANAJUATO,GUANAJUATO,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"12","12",Guerrero,Guerrero,Guerrero,GUERRERO,GUERRERO,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"13","13",Hidalgo,Hidalgo,Hidalgo,HIDALGO,HIDALGO,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"14","14",Jalisco,Jalisco,Jalisco,JALISCO,JALISCO,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"15","15",México,Mexico,Estado de México,MEXICO,MEXICO,Alto,Algunas actividades no esenciales,15-03-2021,28-03-2021
+"16","16",Michoacán,Michoacan,"Michoacán de Ocampo	",MICHOACAN DE OCAMPO,MICHOACAN,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"17","17",Morelos,Morelos,Morelos,MORELOS,MORELOS,Alto,Algunas actividades no esenciales,15-03-2021,28-03-2021
+"18","18",Nayarit,Nayarit,Nayarit,NAYARIT,NAYARIT,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"19","19",Nuevo León,Nuevo Leon,Nuevo León,NUEVO LEON,NUEVO LEON,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"20","20",Oaxaca,Oaxaca,Oaxaca,OAXACA,OAXACA,Alto,Algunas actividades no esenciales,15-03-2021,28-03-2021
+"21","21",Puebla,Puebla,Puebla,PUEBLA,PUEBLA,Alto,Algunas actividades no esenciales,15-03-2021,28-03-2021
+"22","22",Querétaro,Queretaro,Querétaro,QUERETARO,QUERETARO,Alto,Algunas actividades no esenciales,15-03-2021,28-03-2021
+"23","23",Quintana Roo,Quintana Roo,Quintana Roo,QUINTANA ROO,QUINTANA ROO,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"24","24",San Luis Potosí,San Luis Potosi,San Luis Potosí,SAN LUIS POTOSI,SAN LUIS POTOSI,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"25","25",Sinaloa,Sinaloa,Sinaloa,SINALOA,SINALOA,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"26","26",Sonora,Sonora,Sonora,SONORA,SONORA,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"27","27",Tabasco,Tabasco,Tabasco,TABASCO,TABASCO,Alto,Algunas actividades no esenciales,15-03-2021,28-03-2021
+"28","28",Tamaulipas,Tamaulipas,Tamaulipas,TAMAULIPAS,TAMAULIPAS,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"29","29",Tlaxcala,Tlaxcala,Tlaxcala,TLAXCALA,TLAXCALA,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"30","30",Veracruz,Veracruz,"Veracruz de Ignacio de la Llave	",VERACRUZ DE IGNACIO,VERACRUZ,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"31","31",Yucatán,Yucatan,Yucatán,YUCATAN,YUCATAN,Alto,Algunas actividades no esenciales,15-03-2021,28-03-2021
+"32","32",Zacatecas,Zacatecas,Zacatecas,ZACATECAS,ZACATECAS,Medio,Total apertura económica con límites de espacio,15-03-2021,28-03-2021
+"26","26",Sonora,Sonora,Sonora,SONORA,SONORA,Bajo,Todas las actividades,15-03-2021,28-03-2021
